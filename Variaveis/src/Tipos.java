@@ -1,4 +1,4 @@
-public class Main {
+public class Tipos {
     public static void main(String[] args) {
         // A Variável int representa o tipo números inteiros. Dentro dela se colocam
         //Números que não possuam ponto flutuante(vírgula).
