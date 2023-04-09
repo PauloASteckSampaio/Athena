@@ -1,1 +1,1 @@
-<h1>Projeto com intuito de demonstrar e ajudar a relembrar conceitos aprendidos na linguagem de programação Java</h1>
+<h2>Projeto com intuito de demonstrar e ajudar a relembrar conceitos aprendidos na linguagem de programação Java</h2>
