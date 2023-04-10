@@ -1,4 +1,4 @@
-<h2>Projeto com intuito de demonstrar e ajudar a relembrar conceitos aprendidos na linguagem de programação Java.</h2>
+<h2>Projeto com intuito de demonstrar e ajudar a relembrar conceitos aprendidos durante estudos.</h2>
 
 <h3>Cada uma das pastas contém pastas onde se explicam certos conceitos. Cada pasta separada por determinada categoria.</h3>
 
